@@ -1,0 +1,15 @@
+﻿* {
+margin: 0em;
+padding: 0em;
+font-size: 100%;
+border-style: none;
+list-style-type: none;
+}
+body{
+    background-color: lightyellow;
+}
+h1{
+    color:blue;
+    margin-left: 20px;
+}
+
